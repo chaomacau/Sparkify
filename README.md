@@ -28,7 +28,7 @@ Sparkify is a digital music service similar to Spotify or Pandora. Utilizing the
 The Sparkify.ipynb is the notebook that uses a tiny subset (128 MB) of the Sparkify data to create models that predict churn rate, and eventually compare the models' f1 scores and accuracy. 
 
 # Results
-The main findings of the analysis can be found at the post available [here](https://).
+The main findings of the analysis can be found at the post available [here](https://medium.com/@chao_macau/predicting-churn-rate-of-digital-music-service-28556b7d62e4).
 
 # Licensing, Authors, Acknowledgements
 I would like to thank Udacity for having this Capstone project for the Data Science Nanodegree program as well as providing the data.
