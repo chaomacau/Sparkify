@@ -13,6 +13,7 @@
 [5. Licensing, Authors, and Acknowledgements](#Licensing,-Authors,-and-Acknowledgements)
 
 # Installation
+Below are the libraries require for this project: 
 pandas==0.22.0 
 numpy==1.14.0 
 seaborn==0.8.1 
